@@ -144,11 +144,13 @@ body {
 
 .alamat .peta h3 {
   font-size: 1.9rem;
+  line-height: 5rem;
 }
 
 .alamat .peta p {
   font-size: 1.4rem;
   font-weight: 400;
+  padding-bottom: 7rem;
 }
 
 .alamat button {
@@ -159,6 +161,15 @@ body {
   color: #010101;
   background-color: var(--primary);
   cursor: pointer;
+}
+/*footer*/
+.sosial a {
+  padding-left: 3rem;
+  padding-bottom: 0;
+}
+
+.penutup p {
+  padding-left: 3rem;
 }
 
 /*Media Queris*/

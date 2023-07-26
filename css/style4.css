@@ -111,13 +111,14 @@ body {
 
 .pelayanankita {
   text-align: center;
+  padding-left: 5rem;
   padding-bottom: 3rem;
   margin: 0.5rem 0.5rem;
 }
 
 .pelayanan .row .pelayanankita .pelayanankita-imgigd {
   border-radius: 50%;
-  width: 68%;
+  width: 70%;
 }
 
 .pelayanan .row .pelayanankita .pelayanankita-imgjntg {
@@ -133,6 +134,7 @@ body {
 .list h3 {
   font-size: 1.9rem;
   margin-bottom: 1rem;
+  padding-left: 3rem;
 }
 
 .list p {
@@ -142,7 +144,20 @@ body {
   margin-bottom: 1.7rem;
   font-size: 1.4rem;
   font-weight: 400;
+  padding-left: 4rem;
   line-height: 1.6;
+}
+
+/*Footer*/
+.sosial a {
+  line-height: 2rem;
+  padding-left: 3rem;
+  padding-bottom: 0;
+}
+
+.penutup p {
+  padding-left: 3rem;
+  padding-bottom: 10rem;
 }
 
 /*Media Queris*/

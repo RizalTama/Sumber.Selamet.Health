@@ -24,6 +24,7 @@ body {
   font-size: 5rem;
   max-width: 50rem;
   font-weight: 700;
+  padding-left: 2rem;
   padding: 0;
   text-align: left;
 }
@@ -33,6 +34,7 @@ body {
   display: inline-block;
   padding: 1rem 3rem;
   font-size: 1.3rem;
+  padding-left: 3rem;
   color: black;
   background-color: var(--primary);
   border-radius: 3rem;
@@ -51,6 +53,13 @@ body {
   position: relative;
   width: 25%;
 }
+
+/*Footer*/
+
+.penutup p {
+  padding-left: 3rem;
+}
+
 /*Media Queris*/
 
 /*Laptop*/
